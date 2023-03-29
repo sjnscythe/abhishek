@@ -1,0 +1,16 @@
+PODS:
+  - abhishek (0.1.0)
+
+DEPENDENCIES:
+  - abhishek (from `../`)
+
+EXTERNAL SOURCES:
+  abhishek:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  abhishek: 2b72e47c2b7d07ed0d75a121652b15603a4940e8
+
+PODFILE CHECKSUM: 74a64dc043dc296f6fc0546c1bbb8aadc4434611
+
+COCOAPODS: 1.12.0

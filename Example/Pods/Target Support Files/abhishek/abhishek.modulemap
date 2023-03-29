@@ -1,0 +1,6 @@
+framework module abhishek {
+  umbrella header "abhishek-umbrella.h"
+
+  export *
+  module * { export * }
+}
